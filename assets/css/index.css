@@ -76,7 +76,7 @@ li {
 #maincontent{
 	clear:both;
 	background-image: url(../images/cork.png);
-	min-height: 560px;
+	min-height: 5px;
 	position: fixed;
 	float:left;
 	margin-top:95px;
@@ -173,13 +173,12 @@ h2{
 
 footer{
 	width: 960px;
-	position:fixed;
 	background-color:#666666;
 	color:#ffffff;
 	bottom:0px;
 	text-align: center;
 	padding-top: 15px;
-	padding-bottom: 5px;
+	padding-bottom: 15px;
 	font-family: 'Arial','helvetica neue',helvetica, sans-serif;
 
 }

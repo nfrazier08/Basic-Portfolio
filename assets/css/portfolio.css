@@ -76,7 +76,7 @@ li {
 #maincontent{
 	clear:both;
 	background-image: url(../images/cork.png);
-	min-height: 560px;
+	min-height: 570px;
 	position: fixed;
 	float:left;
 	margin-top:95px;
@@ -103,6 +103,7 @@ li {
 
 
 #scratchgame{
+	padding-top: 15px;
 	width: 290px;
 	height: 170px;
 }
@@ -127,6 +128,7 @@ h1{
 	color:#4aaaa5;
 	font-family:Georgia,Times,Times New Roman,serif;
 	padding-left: 10px;
+	font-size: 35px;
 	padding-top: 10px;
 	padding-bottom: 25px;
 }
@@ -154,21 +156,27 @@ h1{
 #github {
 	width:50px;
 	height:50px;
+	padding-top: 10px;
 }
 
 #linkedin {
 	width:50px;
 	height:50px;
+	padding-top:10px;
 }
 
 #stack {
 	width:50px;
 	height:50px;
+	padding-top: 10px;
 }
 
 h2{
 	border-bottom:#cccccc solid 1px;
 	padding-bottom: 10px;
+	padding-top: 5px;
+	font-size: 25px;
+	font-style: bold;
 	color:#4aaaa5;
 	font-family:Georgia,Times,Times New Roman,serif;
 }
@@ -182,8 +190,8 @@ footer{
 	color:#ffffff;
 	bottom:0px;
 	text-align: center;
-	padding-top: 15px;
-	padding-bottom: 5px;
+	padding-top: 30px;
+	padding-bottom: 15px;
 	font-family: 'Arial','helvetica neue',helvetica, sans-serif;
 
 }
