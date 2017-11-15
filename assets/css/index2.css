@@ -192,7 +192,8 @@ footer{
 	color:#ffffff;
 	bottom:0px;
 	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 15px;
+	padding-top: 10px;
+	padding-bottom: 32px;
+	height: 30px;
 	font-family: 'Arial','helvetica neue',helvetica, sans-serif;
 }
